@@ -1,11 +1,11 @@
 </p>
 <p align="center">
-<a href="https://repository-images.githubusercontent.com/292765152/b5b54c80-ef19-11ea-9998-10a88f042830"><img title="AGUS BOT" src="https://repository-images.githubusercontent.com/292765152/b5b54c80-ef19-11ea-9998-10a88f042830"></a>
+<a href="https://repository-images.githubusercontent.com/292765152/b5b54c80-ef19-11ea-9998-10a88f042830"><img title="shanachan BOT" src="https://repository-images.githubusercontent.com/292765152/b5b54c80-ef19-11ea-9998-10a88f042830"></a>
 <p align="center">
-<a href="https://github.com/AgusAliansyah?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AgusAliansyah?color=blue&style=flat-square"></a>
-<a href="https://github.com/AgusAliansyah/vvipbot-wa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AgusAliansyah/vvipbot-wa?color=red&style=flat-square"></a>
+<a href="https://github.com/kap329?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AgusAliansyah?color=blue&style=flat-square"></a>
+<a href="https://github.com/kap320h/vvipbot-wa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AgusAliansyah/vvipbot-wa?color=red&style=flat-square"></a>
 <a href="https://github.com/AgusAliansyah/vvipbot-wa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AgusAliansyah/vvipbot-wa?color=red&style=flat-square"></a>
-<a href="https://github.com/AgusAliansyah/termux-whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AgusAliansyah/vvipbot-walabel=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/kap320/termux-whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AgusAliansyah/vvipbot-walabel=Watchers&color=blue&style=flat-square"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAgusAliansyah%2Fvvipbot-wa&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"></a>
 </p>
@@ -36,7 +36,7 @@ Download aplikasi termux disini [DOWNLOAD](https://play.google.com/store/apps/de
 * Apikey vhtear
 * Kontak whatsapp owner
 
-Custom di sini [SETTING](https://github.com/AgusAliansyah/vvipbot-wa/blob/master/index.js/#L13)
+Custom di sini [SETTING](https://github.com/kap320/vvipbot-wa/blob/master/index.js/#L13)
 
 
 ## Penginstalan
@@ -186,8 +186,8 @@ Terakhir scan kode QR
 | Owner|✅|
 
 ## Contacts
-* [Instagram](https://www.instagram.com/agus.alnsyh71)
-* My whatsapp [Agus Aliansyah](https://wa.me/6289613469459)
+* [Instagram](https://www.instagram.com/rizaedt01)
+* My whatsapp [shanachan](https://wa.me/6285974238938)
 
 
 ## Terimakasih untuk
@@ -198,3 +198,4 @@ Terakhir scan kode QR
 * [`Alfiansx`](https://github.com/alfiansx)
 * [`Bintang73`](https://github.com/Bintang73)
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
+* [`shanachan`](https://github.com/kap320)
