@@ -1,6 +1,6 @@
 {
-  "name": "Agusbot",
-  "version": "1.0.0",
+  "name": "shanachanbotz",
+  "version": "3.0.0",
   "description": "Termux whatsapp bot",
   "main": "index.js",
   "directories": {
