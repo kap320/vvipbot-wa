@@ -6,13 +6,13 @@ exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, ak
 
 「 *LIST MENU* 」
 
-「 VVIPINDO BOT 」
+「 shanachan BOT 」
 
 ╭════•›「 ${BotName} 」
 ├≽️ *.Menu*
 ├ _Menampilkan list menu_
 ├≽️ *.Group* 
-├ https://chat.whatsapp.com/D2o2iSgtRtpFXD2PWfJBoj
+├ hhttps://chat.whatsapp.com/IOyQLEfjtvfA8XIZnjIh97
 ├≽️ *.Owner*
 ├ _Info Admin bot_
 ╰═══════════════
